@@ -1,0 +1,17 @@
+directory encountered: 'pet_images/this_is_a_directory-skip_it' - skipped
+CNN arch model: vgg
+Number of images total: 40
+number of dog images: 30
+number of non-dog images: 10
+pct_match                : 87.50
+pct_correct_dogs         : 96.67
+pct_correct_breed        : 93.33
+pct_correct_not_dogs     : 100.00
+
+Incorrect dog counts found
+Actual: beagle                        ; Classification: walker hound, walker foxhound 
+
+Incorrect dog dog breed assigmnets found
+Actual: great pyrenees                ; Classification: kuvasz                        
+
+** Total Elapsed Runtime: 00:00:32
